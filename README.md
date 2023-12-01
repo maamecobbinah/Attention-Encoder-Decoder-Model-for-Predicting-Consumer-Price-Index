@@ -30,4 +30,4 @@ Fork the repository.
 4. Submit a pull request.
 
 ## Acknowledgments
-https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=2301#a2
+Special thanks to Statistics Canada and Dr Aliaa Alnaggar of Toronto Metropolitan University for providing valuable resources and data related to the Canadian CPI.
