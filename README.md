@@ -11,8 +11,23 @@ Through comprehensive experiments, the proposed method exhibits good performance
 This research investigates the effectiveness of the proposed model in enhancing prediction quality across various CPI indicators when compared to established forecasting methods. 
 The study's findings illuminate promising avenues within deep learning for improving macroeconomic predictions, thereby contributing to better-informed policies to safeguard consumer interests.
 
+## Data Acquistion
+The dataset used in this research can be accessed from [Statistics Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401).
+
 ## Key Features
 Implementation of a recurrent neural network encoder-decoder attention model
 Integration of the teacher-forcing technique 
 Comprehensive experiments assessing the model's performance
 Comparison with established basline forecasting methods
+
+## Contribution
+Contributions to enhance the model, improve code efficiency, or incorporate additional features are welcome. To contribute:
+
+Fork the repository.
+1. Create your branch: git checkout -b feature/add-new-feature.
+2. Commit your changes: git commit -am 'Add new feature'.
+3. Push to the branch: git push origin feature/add-new-feature.
+4. Submit a pull request.
+
+## Acknowledgments
+https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=2301#a2
