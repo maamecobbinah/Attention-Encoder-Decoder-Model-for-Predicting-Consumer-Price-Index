@@ -30,4 +30,4 @@ Fork the repository.
 4. Submit a pull request.
 
 ## Acknowledgments
-Special thanks to Statistics Canada and Dr Aliaa Alnaggar of Toronto Metropolitan University for providing valuable resources and data related to the Canadian CPI.
+Special thanks to [Statistics Canada](https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=2301#a2) and [Dr Aliaa Alnaggar] (https://www.torontomu.ca/mechanical-industrial/people/faculty/aliaa-alnaggar/) of Toronto Metropolitan University for providing valuable resources and data related to the Canadian CPI.
