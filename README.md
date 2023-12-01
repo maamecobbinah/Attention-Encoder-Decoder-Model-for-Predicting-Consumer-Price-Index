@@ -15,10 +15,10 @@ The study's findings illuminate promising avenues within deep learning for impro
 The dataset used in this research can be accessed from [Statistics Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401).
 
 ## Key Features
-Implementation of a recurrent neural network encoder-decoder attention model
-Integration of the teacher-forcing technique 
-Comprehensive experiments assessing the model's performance
-Comparison with established basline forecasting methods
+1. Implementation of a recurrent neural network encoder-decoder attention model
+2. Integration of the teacher-forcing technique
+3. Comprehensive experiments assessing the model's performance
+4. Comparison with established basline forecasting methods
 
 ## Contribution
 Contributions to enhance the model, improve code efficiency, or incorporate additional features are welcome. To contribute:
